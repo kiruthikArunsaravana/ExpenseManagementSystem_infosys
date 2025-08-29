@@ -6,7 +6,7 @@ body {
     
 }
 .login-background {
-    background: url('D:\Infosys\ExpenseManagementSystem\expense-front\public\images\ExpenseLogin.jpg') no-repeat center center fixed;
+/*     background: url('D:\Infosys\ExpenseManagementSystem\expense-front\public\images\ExpenseLogin.jpg') no-repeat center center fixed; */
     background-size: contain; /* Show the full image */
     background-position: center;
     background-color: #ffffff; /* Set a background color if the image doesn't cover fully */
@@ -19,7 +19,7 @@ body {
 
 }
 .register-background {
-    background: url('D:\Infosys\ExpenseManagementsystem\expense-front\public\images\NewUserRegistration.avif') no-repeat center center fixed;
+/*     background: url('D:\Infosys\ExpenseManagementsystem\expense-front\public\images\NewUserRegistration.avif') no-repeat center center fixed; */
     background-size: cover;
     height: 100vh;
     width: 100vw;
